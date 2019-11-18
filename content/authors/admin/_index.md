@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Daniel Raimundo
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Jack of all trades,<br> MSc EEIT student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: ETH Zurich
+  url: "ethz.ch"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Signal Processing
+- Machine learning
+- Measurement automation
+
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc, Electrical Engineering and Information Technology
+    institution: ETH Zurich
+    year: 2021
+  - course: BSc, Electrical Engineering
+    institution: HEIA Fribourg
+    year: 2018
+  - course: Apprenticeship, Electronics
+    institution: ETM Lausanne
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,32 +46,36 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: "mailto:dr@draimundo.ch"  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/danielraimundo/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/draimundo
+- icon: strava
+  icon_pack: fab
+  link: https://www.strava.com/athletes/d_raimundo
+
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Master's (MSc) student in Electrical Engineering and Information Technology (EEIT) at [ETHZ](https://ethz.ch/en). While trying to broaden my knowledge in numerous domains (and not only STEM), I'm particularly interested by Digital Signal Processing and Machine Learning. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My rather uncommon studiying path, which begun in a vocational school ([ETML](https://etml.ch/)), allowed me to start by gaining valuable practical experience and develop logical/intuitive capacities in the broad electronics field, as well as the FH Electrical Engineer title in an engineering school ([HEIA-FR](https://heia-fr.ch/)). On the other hand, my studies at ETHZ allow me to expand my theoretical knowledge, while consolidating and expanding my skillset.
+
+My free time is shared among experimenting different ideas, being an ambitious [athlete](https://www.strava.com/athletes/d_raimundo) and improving my soft skills.

@@ -18,27 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Physics Affiliate"
+  company = "Lawrence Berkeley Lab"
+  company_url = "lbl.gov"
+  location = "Berkeley, CA, USA"
+  date_start = "2018-05-28"
+  date_end = "2018-08-15"
+  description = """FW/SW design, testing and commissioning of a custom testbench for one of CERN ATLAS's new ASICs."""
+
+
+[[experience]]
+  title = "Sales Clerk"
+  company = "COOP"
+  company_url = "coop.ch"
+  location = "La Sarraz, VD, Switzerland"
+  date_start = "2013-08-02"
+  date_end = "2018-04-28"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Customer Contact;
+  * Logistics / Inventory management.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Internship Student in R&D"
+  company = "Advanced Silicon"
+  company_url = "advancedsilicon.com"
+  location = "Lausanne, VD, Switzerland"
+  date_start = "2013-08-05"
+  date_end = "2013-11-28"
+  description = """
+  * Soldering of SMD downto size 0402; 
+  * Assembly and commissioning of circuit boards; 
+  * Management of the laboratory's SQL component database; 
+  * Measurement automation using GPIB-equipped instruments.
+  """
 
 +++
